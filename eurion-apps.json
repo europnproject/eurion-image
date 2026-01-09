@@ -1,0 +1,34 @@
+{
+  "version": "0.0.1",
+  "categories": {
+    "Daily": [
+      {"name": "Firefox", "flatpak": "org.mozilla.firefox"},
+      {"name": "Chromium", "flatpak": "org.chromium.Chromium"},
+      {"name": "Thunderbird", "flatpak": "org.mozilla.Thunderbird"},
+      {"name": "VLC", "flatpak": "org.videolan.VLC"},
+      {"name": "KeePassXC", "flatpak": "org.keepassxc.KeePassXC"},
+      {"name": "Bitwarden", "flatpak": "com.bitwarden.desktop"},
+      {"name": "Telegram", "flatpak": "org.telegram.desktop"},
+      {"name": "Discord", "flatpak": "com.discordapp.Discord"},
+      {"name": "Flameshot", "flatpak": "org.flameshot.Flameshot"}
+    ],
+    "Office": [
+      {"name": "LibreOffice", "flatpak": "org.libreoffice.LibreOffice"},
+      {"name": "OnlyOffice", "flatpak": "org.onlyoffice.desktopeditors"},
+      {"name": "Okular (PDF)", "flatpak": "org.kde.okular"},
+      {"name": "PDF Arranger", "flatpak": "com.github.jeromerobert.pdfarranger"}
+    ],
+    "Creators": [
+      {"name": "GIMP", "flatpak": "org.gimp.GIMP"},
+      {"name": "Inkscape", "flatpak": "org.inkscape.Inkscape"},
+      {"name": "Kdenlive", "flatpak": "org.kde.kdenlive"}
+    ],
+    "Gaming": [
+      {"name": "Steam", "flatpak": "com.valvesoftware.Steam"},
+      {"name": "Lutris", "flatpak": "net.lutris.Lutris"}
+    ],
+    "Windows Apps": [
+      {"name": "Bottles", "flatpak": "com.usebottles.bottles"}
+    ]
+  }
+}
